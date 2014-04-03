@@ -320,7 +320,7 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #f0f url('../img/cevik.jpg');
+    background: #f0f url('../img/zach.jpg');
     background-size: cover; }
   .tile.tile-4 .tile-inner {
     background: #f0f url('../img/abisi.jpg');
@@ -672,20 +672,6 @@ hr {
 
   .game-container {
     margin-top: 20px; }
-
-.restart-button {
-  display: inline-block;
-  background: #8f7a66;
-  border-radius: 3px;
-  padding: 0 20px;
-  text-decoration: none;
-  color: #f9f6f2;
-  height: 40px;
-  line-height: 42px;
-  cursor: pointer;
-  display: block;
-  text-align: center;
-  float: right; }
   
   .tile .tile-inner {
     font-size: 35px; }
