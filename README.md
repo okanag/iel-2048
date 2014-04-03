@@ -1,5 +1,5 @@
-# AK 2048
-Bir [2048](https://github.com/gabrielecirulli/2048) klonudur.
+# IEL '2048
+Bir [2048](https://github.com/gabrielecirulli/2048) çakmasıdır.
 
 [Buradan oyna!](http://okanag.github.io/iel-2048)
 
