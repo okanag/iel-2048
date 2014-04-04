@@ -392,55 +392,55 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #f0f url('../img/zach.jpg');
-    background-size: cover; }
-  .tile.tile-4 .tile-inner {
     background: #f0f url('../img/abisi.jpg');
     background-size: cover; }
-  .tile.tile-8 .tile-inner {
-    background: #f0f url('../img/ali.jpg');
+  .tile.tile-4 .tile-inner {
+    background: #f0f url('../img/zach.jpg');
     background-size: cover; }
-  .tile.tile-16 .tile-inner {
+  .tile.tile-8 .tile-inner {
     background: #f0f url('../img/baki.jpg');
     background-size: cover; }
-  .tile.tile-32 .tile-inner {
+  .tile.tile-16 .tile-inner {
     background: #f0f url('../img/haldun.jpg');
     background-size: cover; }
+  .tile.tile-32 .tile-inner {
+    background: #f0f url('../img/gul.jpg');
+    background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #f0f url('../img/cevik.jpg');
+    background: #f0f url('../img/zafersevda.jpg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #f0f url('../img/zafersevda.jpg');
+    background: #f0f url('../img/duygu.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #f0f url('../img/cevik.jpg');
+    background: #f0f url('../img/hayriye.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #f0f url('../img/hayriye.jpg');
+    background: #f0f url('../img/metin.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #f0f url('../img/metin.jpg');
+    background: #f0f url('../img/apo.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #f0f url('../img/apo.jpg');
+    background: #f0f url('../img/ali.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-4096 .tile-inner {
-    background: #f0f url('../img/cevik.jpg');
+    background: #f0f url('../img/ayhan.jpg');
     background-size: cover; }        
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
